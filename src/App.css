@@ -1,0 +1,6 @@
+.error-box{
+    border: 1px solid red !important;
+}
+.success-box{
+    border: 1px solid green;
+}

@@ -1,0 +1,36 @@
+
+
+#table{
+ margin-top: 100px;
+    width: 100%;
+    box-shadow: -1px 12px 12px -6px rgba(0,0,0,0.5);
+}
+#table ,#td,#th{
+
+    padding: 20px;
+    border: 1px solid lightgrey;
+    border-collapse: collapse;
+    text-align: center;
+    cursor: pointer;
+}
+#tr{
+    font-size: 20px;
+    background-color: #f83fa4;
+}
+#th{
+   
+   
+    color:black;
+    transition: 0.5s;
+}
+
+
+#th:hover{
+    background: #f8d8e8;
+
+
+   
+    color: rgb(215, 72, 172);
+ 
+    
+}

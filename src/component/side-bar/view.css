@@ -1,0 +1,29 @@
+
+.container-lr{
+    width: 500px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+  align-content: space-around;
+    justify-content: center; 
+   
+    color: #f582a7;
+    transition: 00.5s;
+}
+.li{border-radius: 4px;
+    border: 2px solid  #e0579c;
+    display: flex;
+    font-size: medium;
+}
+.li:hover{
+    color: #f83fa4;
+    background-color: bisque
+
+}
+h4{
+    color: ;
+    margin-right: 10px;
+}
+h4:hover{
+color: #ae0863;
+}

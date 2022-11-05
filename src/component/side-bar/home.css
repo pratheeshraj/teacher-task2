@@ -1,0 +1,24 @@
+
+.col-lg-4{
+   float: left;
+   padding: 10px;
+}
+p{
+    margin-top: 20px;
+   cursor: pointer;
+   transition: 0.5s;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p:hover{
+    color: rgb(16, 210, 231);
+    font-size: larger;
+    text-decoration:underline;
+}
+b{
+    color: rgb(234, 107, 179);
+    font-size: 30px;
+}
+b:hover{
+    color: red;
+    text-decoration: none;
+}
